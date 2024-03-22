@@ -124,7 +124,7 @@ button {
 
 .form {
   background: var(--color-base-white);
-  padding-left: 4.3rem;
+  padding-left: 4rem;
 }
 
 fieldset {
@@ -266,7 +266,7 @@ footer {
 
 .block img:hover {
   transform: scale(1.2) rotate(45deg);
-  transition: 1s ease-out;
+  transition: 500ms ease-out;
  }
 
  .block {
